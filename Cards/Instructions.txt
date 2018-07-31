@@ -1,0 +1,7 @@
+
+1) Create your card using the “item card” file, hiding/showing layers and changing the numbers as necessary.
+2) Flatten the image (discarding all hidden layers).
+3) Change the image size to 825x1125 (resample to nearest neighbor to preserve pixel art).
+4) Copy the whole thing then paste it into the background folder of the “gamecrafter setup” file.
+5) Edit the final body text.
+6) Save as PDF, this is what you’ll eventually send to TGC.
